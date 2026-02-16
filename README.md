@@ -31,13 +31,22 @@ I enjoy turning complex designs into functional products using modern web techno
 A full-stack application for vehicle tracking and data management, developed as my final thesis for my Engineering degree at Lublin University of Technology.
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js).
 - **Features**: Complete vehicle management system with custom data handling.
+- 🔗 **Live Demo**: [motocar-tracker.vercel.app](https://motocar-tracker.vercel.app/)
 - 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/motocar-tracker)
 
 ### 🔹 OL&BUD Corporate Website
 Full-cycle development from UI design to deployment.
-- **Tech Stack**: React, SCSS, Responsive Design.
+- **Tech Stack**: HTML, CSS, Responsive Design.
 - 🔗 **Live Demo**: [ol-bud.com](https://ol-bud.com/)
 
+### 🔹 Reline – Laser Tattoo Removal (In Development)
+A professional landing page for a laser tattoo removal service.
+- **Status**: Currently under development 🛠️
+- **Purpose**: Business card website featuring service descriptions, pricing, and contact integration.
+- **Tech Stack**: React, SCSS, Responsive Design.
+- 🔗 **Live Preview**: [reline-rho.vercel.app](https://reline-rho.vercel.app/)
+- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/Reline)
+  
 ---
 
 ## 💼 Work Experience
