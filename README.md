@@ -61,7 +61,7 @@ A professional landing page for a laser tattoo removal service.
 
 - 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1S0NxaxouMftp1Dq6wXF7XGlhhFd-AG5j/view?usp=sharing)
 - 📧 Email: **kosta060504@gmail.com**
-- 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko-7a6676358/)
+- 💼 LinkedIn: [kostiantyn-myroshnychenko]([https://www.linkedin.com/in/kostiantyn-myroshnychenko/])
 - 💬 Telegram: [@new_const](https://t.me/new_const)
 - 🌐 GitHub: [KonstMiron](https://github.com/KonstMiron)
 
