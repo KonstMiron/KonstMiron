@@ -29,7 +29,9 @@ I am a results-oriented **Full-stack Developer** with a solid engineering backgr
 A smart pantry management and recipe generation tool powered by **Google Gemini AI**.
 - **Tech Stack**: PostgreSQL (Neon), Express, React, Node.js (PERN), Tailwind CSS v4.
 - **Key Features**: JWT Auth, AI-driven recipe logic, meal planner, and real-time pantry alerts.
-- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/ai-recipe-generator) ### 🏎 MotoCar Tracker (Engineering Diploma Project)
+- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/ai-recipe-generator)
+
+### 🏎 MotoCar Tracker (Engineering Diploma Project)
 Comprehensive vehicle tracking platform for data management.
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js).
 - **Features**: Advanced CRUD system for fleet management with custom data handling.
@@ -38,7 +40,7 @@ Comprehensive vehicle tracking platform for data management.
 
 ### 🏫 School Web Platform
 Official website development for a large educational institution.
-- **Tech Stack**: WordPress, PHP, Custom CSS.
+- **Tech Stack**: WordPress
 - 🔗 **Website**: [school281.kyiv.ua](https://school281.kyiv.ua/)
 
 ---
@@ -61,10 +63,7 @@ Official website development for a large educational institution.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **myroshnychenko.it@gmail.com** - 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko/)
+- 📧 Email: **myroshnychenko.it@gmail.com**
+- 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko/)
 - 💬 Telegram: [@new_const](https://t.me/new_const)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KonstMiron&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
