@@ -1,70 +1,70 @@
 # <h1 align="center">Hi, I'm Kostiantyn 👋</h1>
-<h3 align="center">JavaScript Developer • React • Node.js • Engineer</h3>
+<h3 align="center">Full-stack JavaScript Developer | React • Node.js • AI Integration</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a web developer with commercial experience in building and maintaining websites. With a technical background as an Engineer, I focus on creating clean UI, responsive layouts, and robust system logic.
-I enjoy turning complex designs into functional products using modern web technologies.
+I am a results-oriented **Full-stack Developer** with a solid engineering background. My focus is on building high-performance web applications, integrating **AI solutions**, and creating scalable architecture. 
 
-- 🛠 **Experience**: Website development, localization, and UI implementation.
-- 🎓 **Education**: Bachelor's degree in Computer Science (Engineer) at Lublin University of Technology.
-- 🏆 **Achievements**: 1st place in both JavaScript and Fullstack JS courses at Hillel IT School.
-- 🌍 **Location**: Based in Lublin, Poland (Open to Remote).
-- 💬 **Languages**: Ukrainian (C2), Polish (B2), English (A2).
-
----
-
-## 🧰 Tech Stack
-
-**Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3 · SCSS/SASS · TailwindCSS · Bootstrap.
-
-**Backend & Databases:** Node.js · Express · MongoDB · MySQL · PHP.
-
-**Tools:** Git · GitHub · Figma · Vite.
+- 🛠 **Current Focus**: Building AI-powered tools and mastering the PERN stack.
+- 🎓 **Education**: Bachelor of Computer Science (Engineer) at Lublin University of Technology (2021–2026).
+- 🏆 **Achievements**: **1st Place** (Excellent) in both JavaScript and Fullstack JS courses at Hillel IT School.
+- 🌍 **Location**: Based in Lublin, Poland (Open to Remote/Relocation).
+- 💬 **Languages**: Ukrainian (Native), Polish (B2), English (B1/B2).
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 MotoCar Tracker (Engineering Diploma Project)
-A full-stack application for vehicle tracking and data management, developed as my final thesis for my Engineering degree at Lublin University of Technology.
+### 🤖 AI Recipe Generator (Full-stack App)
+A smart pantry management and recipe generation tool powered by **Google Gemini AI**.
+- **Tech Stack**: PostgreSQL (Neon), Express, React, Node.js (PERN), Tailwind CSS v4.
+- **Key Features**: JWT Auth, AI-driven recipe logic, meal planner, and real-time pantry alerts.
+- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/ai-recipe-generator) ### 🏎 MotoCar Tracker (Engineering Diploma Project)
+Comprehensive vehicle tracking platform for data management.
 - **Tech Stack**: MERN (MongoDB, Express, React, Node.js).
-- **Features**: Complete vehicle management system with custom data handling.
+- **Features**: Advanced CRUD system for fleet management with custom data handling.
 - 🔗 **Live Demo**: [motocar-tracker.vercel.app](https://motocar-tracker.vercel.app/)
 - 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/motocar-tracker)
 
-### 🔹 OL&BUD Corporate Website
-Full-cycle development from UI design to deployment.
-- **Tech Stack**: HTML, CSS, Responsive Design.
-- 🔗 **Live Demo**: [ol-bud.com](https://ol-bud.com/)
+### 🏫 School Web Platform
+Official website development for a large educational institution.
+- **Tech Stack**: WordPress, PHP, Custom CSS.
+- 🔗 **Website**: [school281.kyiv.ua](https://school281.kyiv.ua/)
 
-### 🔹 Reline – Laser Tattoo Removal (In Development)
-A professional landing page for a laser tattoo removal service.
-- **Status**: Currently under development 🛠️
-- **Purpose**: Business card website featuring service descriptions, pricing, and contact integration.
-- **Tech Stack**: React, SCSS, Responsive Design.
-- 🔗 **Live Preview**: [reline-rho.vercel.app](https://reline-rho.vercel.app/)
-- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/Reline)
-  
 ---
 
-## 💼 Work Experience
-- **Front-end Developer** at Ukrimporttrade LLC (Kyiv)
-  *July 2023 – March 2025*
-  - Responsible for website development, editing, and localization.
-  - Maintained and updated website content effectively.
+## 💼 Professional Experience
+**Full-stack Developer** | Ukrimporttrade LLC (Kyiv)
+*July 2023 – March 2025*
+- Developed and maintained **shinadiski.com.ua**, optimizing filters for tire and wheel selection.
+- Implemented responsive UI components and backend logic using **PHP** and **JavaScript**.
+- Improved site performance and SEO through clean code and efficient database queries.
+
+---
+
+## 🧰 Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS v4, Bootstrap, Redux Toolkit.
+- **Backend:** Node.js, Express, PHP, WordPress (Custom Themes).
+- **Databases:** PostgreSQL, MongoDB, MySQL.
+- **Tools:** Docker, Git/GitHub, Postman, Vite.
 
 ---
 
 ## 📫 Contact Me
-
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1S0NxaxouMftp1Dq6wXF7XGlhhFd-AG5j/view?usp=sharing)
-- 📧 Email: **kosta060504@gmail.com**
-- 💼 LinkedIn: [kostiantyn-myroshnychenko]([https://www.linkedin.com/in/kostiantyn-myroshnychenko/])
+- 📧 Email: **myroshnychenko.it@gmail.com** - 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko/)
 - 💬 Telegram: [@new_const](https://t.me/new_const)
-- 🌐 GitHub: [KonstMiron](https://github.com/KonstMiron)
 
 ---
-
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KonstMiron&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
