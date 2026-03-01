@@ -38,9 +38,20 @@ Comprehensive vehicle tracking platform for data management.
 - 🔗 **Live Demo**: [motocar-tracker.vercel.app](https://motocar-tracker.vercel.app/)
 - 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/motocar-tracker)
 
+### 🖋️ Reline – Laser Tattoo Removal
+Professional landing page for a specialized medical service.
+- **Status**: Currently under development 🛠️
+- **Tech Stack**: React, SCSS, Responsive Design.
+- 🔗 **Live Preview**: [reline-rho.vercel.app](https://reline-rho.vercel.app/)
+
+### 🏗️ OL&BUD Corporate Website
+Full-cycle development for a construction services company.
+- **Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design.
+- 🔗 **Live Demo**: [ol-bud.com](https://ol-bud.com/)
+
 ### 🏫 School Web Platform
 Official website development for a large educational institution.
-- **Tech Stack**: WordPress
+- **Tech Stack**: WordPress, PHP.
 - 🔗 **Website**: [school281.kyiv.ua](https://school281.kyiv.ua/)
 
 ---
@@ -66,4 +77,3 @@ Official website development for a large educational institution.
 - 📧 Email: **myroshnychenko.it@gmail.com**
 - 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko/)
 - 💬 Telegram: [@new_const](https://t.me/new_const)
-
