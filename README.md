@@ -1,21 +1,22 @@
 # <h1 align="center">Hi, I'm Kostiantyn 👋</h1>
-<h3 align="center">Full-stack JavaScript Developer | React • Node.js • AI Integration</h3>
-
+<h3 align="center">Full-stack JavaScript Developer | React • Node.js • Blockchain • AI Integration</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethereum-3c3c3d?style=flat&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a results-oriented **Full-stack Developer** with a solid engineering background. My focus is on building high-performance web applications, integrating **AI solutions**, and creating scalable architecture. 
 
-- 🛠 **Current Focus**: Building AI-powered tools and mastering the PERN stack.
+I am a results-oriented **Full-stack Developer** with a solid engineering background. My focus is on building high-performance web applications, integrating **AI solutions**, and creating scalable architecture. Currently expanding into **Blockchain/Web3** development.
+
+- 🛠 **Current Focus**: Blockchain/Web3 development, AI-powered tools, and PERN stack.
 - 🎓 **Education**: Bachelor of Computer Science (Engineer) at Lublin University of Technology (2021–2026).
 - 🏆 **Achievements**: **1st Place** (Excellent) in both JavaScript and Fullstack JS courses at Hillel IT School.
 - 🌍 **Location**: Based in Lublin, Poland (Open to Remote/Relocation).
@@ -24,6 +25,12 @@ I am a results-oriented **Full-stack Developer** with a solid engineering backgr
 ---
 
 ## 📌 Featured Projects
+
+### ⛓️ DEX Simulator (Blockchain)
+A constant-product AMM simulator implementing Uniswap V2 formula with real Ethereum data.
+- **Tech Stack**: Node.js, Viem, Ethereum Mainnet, Uniswap V2.
+- **Key Features**: Fetches real-time reserves via RPC, simulates token swaps with x*y=k formula, calculates slippage and price impact with fuzz testing.
+- 🔗 **Repository**: [View on GitHub](https://github.com/KonstMiron/dex-simulator)
 
 ### 🤖 AI Recipe Generator (Full-stack App)
 A smart pantry management and recipe generation tool powered by **Google Gemini AI**.
@@ -57,6 +64,7 @@ Official website development for a large educational institution.
 ---
 
 ## 💼 Professional Experience
+
 **Full-stack Developer** | Ukrimporttrade LLC (Kyiv)
 *July 2023 – March 2025*
 - Developed and maintained **shinadiski.com.ua**, optimizing filters for tire and wheel selection.
@@ -66,14 +74,17 @@ Official website development for a large educational institution.
 ---
 
 ## 🧰 Tech Stack
+
 - **Frontend:** React, TypeScript, Tailwind CSS v4, Bootstrap, Redux Toolkit.
 - **Backend:** Node.js, Express, PHP, WordPress (Custom Themes).
+- **Blockchain:** Viem, Ethereum, Smart Contracts, AMM/DEX, Uniswap V2, Web3.
 - **Databases:** PostgreSQL, MongoDB, MySQL.
 - **Tools:** Docker, Git/GitHub, Postman, Vite.
 
 ---
 
 ## 📫 Contact Me
+
 - 📧 Email: **myroshnychenko.it@gmail.com**
 - 💼 LinkedIn: [kostiantyn-myroshnychenko](https://www.linkedin.com/in/kostiantyn-myroshnychenko/)
 - 💬 Telegram: [@new_const](https://t.me/new_const)
